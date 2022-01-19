@@ -69,6 +69,14 @@ Rollups - rollup transactions into layer 1? Send their transactions to the layer
 
 Side chains - derive their own security through their own protocols. 
 
-
-
 ### Lesson 1: Welcome to Remix! Simple Storage
+Deployed a smart contract
+
+### Lesson 2: Storage Factory
+Imported contracts
+Used Inheritance
+Deployed a contract from a contract.
+
+### Lesson 3: Fund Me
+Made a FundMe app that can take in funds, check that they are a certain minimum amount against real word data (usd to eth conversion rate) and then store the funds. The owner of the contract can then withdraw the funds.
+
